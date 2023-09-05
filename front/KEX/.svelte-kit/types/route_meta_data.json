@@ -1,0 +1,41 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/accept/agree": [],
+	"/accept/cart": [],
+	"/accept/search": [],
+	"/accept/success": [],
+	"/api/auth": [
+		"src/routes/api/auth/+server.js"
+	],
+	"/api/cart": [
+		"src/routes/api/cart/+server.js"
+	],
+	"/api/cart/add": [
+		"src/routes/api/cart/add/+server.js"
+	],
+	"/api/cart/reset": [
+		"src/routes/api/cart/reset/+server.js"
+	],
+	"/api/code": [
+		"src/routes/api/code/+server.js"
+	],
+	"/api/inquire": [
+		"src/routes/api/inquire/+server.js"
+	],
+	"/api/login": [
+		"src/routes/api/login/+server.js"
+	],
+	"/api/register": [
+		"src/routes/api/register/+server.js"
+	],
+	"/api/search": [
+		"src/routes/api/search/+server.js"
+	],
+	"/api/success": [
+		"src/routes/api/success/+server.js"
+	],
+	"/inquire": [],
+	"/login": []
+}
